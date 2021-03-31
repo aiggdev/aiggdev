@@ -1,6 +1,8 @@
+### Hey Now 
+
 - 👋 Hi, I’m @aiggdev
 - 👀 I’m interested in writing code, databases, etc.
-- 🌱 I’m currently learning MongoDb
+- 🌱 I’m currently learning GraphQL
 
 - 📫 How to reach me: dev@aigg.dev
 
