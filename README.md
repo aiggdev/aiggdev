@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Go and writing Python for a gig.
 
 - 📫 How to reach me: dev@aigg.dev
-- ✨ (https://tripkendall.com)[CV]
+- ✨ cv: https://tripkendall.com 
 
 <!---
 aiggdev/aiggdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
